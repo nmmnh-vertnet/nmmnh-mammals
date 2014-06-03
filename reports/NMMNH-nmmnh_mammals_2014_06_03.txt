@@ -1,0 +1,116 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 460
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 5
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-06 ; Times: 2
+	Date: 2014-05-08 ; Times: 2
+	Date: 2014-05-09 ; Times: 4
+	Date: 2014-05-12 ; Times: 2
+	Date: 2014-05-13 ; Times: 8
+	Date: 2014-05-15 ; Times: 4
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-21 ; Times: 3
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-29 ; Times: 6
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "unam class:mammalia" ; Times: 1
+	Query: "lama glama AND (america) year >= 1970" ; Times: 1
+	Query: "Cratogeomys goldmani" ; Times: 2
+	Query: "sylvilagus floridanus year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: "county:"clark" stateprovince:"nevada" (Onychomys torridus)" ; Times: 1
+	Query: "county:"clark" stateprovince:"Nevada" (Myotis californicus)" ; Times: 1
+	Query: "county:"clark" stateprovince:"nevada" (plecotus townsendii)" ; Times: 1
+	Query: "stateprovince:"Nevada" (Myotis californicus)" ; Times: 1
+	Query: "county:"lincoln" stateprovince:"Nevada" (Myotis californicus)" ; Times: 1
+	Query: "specificepithet:simulans genus:Dipodomys" ; Times: 5
+	Query: "Lepus alleni records" ; Times: 2
+	Query: "microdipodops pallidus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Sylvilagus floridanus year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "Chaetodipus dalquesti" ; Times: 1
+	Query: "Tamiasciurus mearnsi" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "Spermophilus adocetus mappable:1" ; Times: 2
+	Query: "Lasiurus xanthinus" ; Times: 2
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Neotoma leucodon" ; Times: 2
+	Query: "lama glama year >= 1970" ; Times: 1
+	Query: "Ochotona princeps type:specimen (Washington) year >= 1958 year <= 2011 mappable:1 tissue:1" ; Times: 2
+	Query: "Chaetodipus rudinoris" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "county:"lincoln" stateprovince:"nevada" (Onychomys torridus)" ; Times: 1
+	Query: "LAMA GLAMA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1679 download events in this period)
+Total number of records downloaded: 1162 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 936
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-26 ; Times: 2
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Ochotona" ; Times: 3
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "type:specimen county:"Lincoln" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "tamiasciurus hudsonicus type:specimen (skin) tissue:1" ; Times: 1
+	Query: "tamiasciurus hudsonicus type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+	Query: "ursus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 57
+Total number of records retrieved from searches: 741
+Number of download events that retrieved data from the resource: 121
+Total number of records downloaded: 16627
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 57
+Total number of records retrieved from searches: 741
+Number of download events that retrieved data from the resource: 189
+Total number of records downloaded: 26294
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
