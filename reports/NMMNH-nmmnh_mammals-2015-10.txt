@@ -1,0 +1,92 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "county:&#34;lubbock&#34; sex:MALE" ; Times: 1
+	Query: "spermophilus undulatus country:&#34;Russia&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "neotoma genus:neotoma stateprovince:&#34;aguascalientes&#34;" ; Times: 2
+	Query: "lvt 3542" ; Times: 1
+	Query: "genus:reithrodontomys stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 823 download events in this period)
+Total number of records downloaded: 25496
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "neotoma genus:neotoma stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "genus:reithrodontomys stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+
+
+End of report.
