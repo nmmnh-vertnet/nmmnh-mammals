@@ -1,0 +1,115 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 803
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-02 ; Times: 9
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-06 ; Times: 8
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals in aguascalientes" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 1
+	Query: "Sorex merriami New Mexico" ; Times: 1
+	Query: "Euderma type:specimen tissue:1" ; Times: 1
+	Query: "mammals of chihuahua" ; Times: 10
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 4
+	Query: "mammals aguascalientes" ; Times: 7
+	Query: "mammals coahuila CUATRO CIENEGAS" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "mammals coahuila cuatro cienegas" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "geomyidae (mammals) institutioncode:NMMNH" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 163 (out of 1312 download events in this period)
+Total number of records downloaded: 128777
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 8
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-19 ; Times: 10
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 4
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "geomyidae (mammals) institutioncode:NMMNH" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Tulsa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "&#34;Sciurus griseus&#34; AND preparations:skeleton type:specimen" ; Times: 2
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "mammals in san luis potosi" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "thomomys bottae" ; Times: 3
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
