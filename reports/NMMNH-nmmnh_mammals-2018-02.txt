@@ -1,0 +1,149 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 119
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Denmark ; Times: 25
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-27 ; Times: 10
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 12
+	Date: 2018-02-02 ; Times: 13
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:castor stateprovince:&#34;oklahoma&#34;" ; Times: 10
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:NMMNH:Mammals:4359&#34;" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:NMMNH:Mammals:2373&#34;" ; Times: 4
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "specificepithet:devia genus:Neotoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:NMMNH:Mammals:4358&#34;" ; Times: 2
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 3
+	Query: "specificepithet:hemionus genus:Odocoileus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1892 download events in this period)
+Total number of records downloaded: 4995
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Denmark ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 48
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ordii genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
