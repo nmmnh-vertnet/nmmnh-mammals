@@ -1,0 +1,85 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 142
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 1
+	Query: "specificepithet:apache genus:Perognathus hastissue:1" ; Times: 1
+	Query: "BYU reithrodontomys" ; Times: 2
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "CIT 51" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:eva genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus hastissue:1" ; Times: 2
+	Query: "specificepithet:fraterculus genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 404
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
