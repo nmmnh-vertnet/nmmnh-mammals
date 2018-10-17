@@ -1,0 +1,85 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 68
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; stateprovince:&#34;CAlifornia&#34; hasmass:1" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval County" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Canis latrans new mexico San Juan County" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "Canis latrans new mexico Sandoval" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1169 download events in this period)
+Total number of records downloaded: 301
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "elephant" ; Times: 1
+
+
+End of report.
