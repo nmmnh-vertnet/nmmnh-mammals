@@ -1,0 +1,80 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-30 ; Times: 12
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Odocoileus institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:goldmani genus:Cratogeomys" ; Times: 2
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "specificepithet:leucogaster genus:Onychomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:eremicus genus:chaetodipus county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis hastissue:1" ; Times: 1
+	Query: "genus:sigmodon county:&#34;Cochise&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 2
+	Query: "specificepithet:simulans genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:thysanodes genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 4
+	Query: "Tamias obscurus" ; Times: 1
+	Query: "specificepithet:flavus genus:perognathus county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:Sigmodon catalognumber:6169 institutioncode:NMMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 846 download events in this period)
+Total number of records downloaded: 758
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rodentia or zacatecas" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona hasmass:1 haslength:1" ; Times: 4
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:goldmani genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:phenax genus:Neotoma" ; Times: 2
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "neotoma leucodon" ; Times: 1
+
+
+End of report.
