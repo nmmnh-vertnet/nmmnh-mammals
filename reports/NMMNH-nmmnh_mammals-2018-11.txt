@@ -1,0 +1,222 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 987
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-12 ; Times: 12
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-30 ; Times: 8
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dipodomys catalognumber:3982" ; Times: 2
+	Query: "choeronycteris mexicana vntype:specimen year &gt;= 1960 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus continent:North America institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys" ; Times: 8
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "genus:taxidea country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "genus:dipodomys catalognumber:4445" ; Times: 1
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "class:Mammalia locality:Isla San Marcos country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:dipodomys catalognumber:4602" ; Times: 2
+	Query: "genus:dipodomys catalognumber:4535" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:2461" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "genus:peromyscus institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "genus:dipodomys catalognumber:4377" ; Times: 1
+	Query: "genus:dipodomys catalognumber:4548" ; Times: 2
+	Query: "choeronycteris mexicana vntype:specimen country:&#34;united states&#34; year &gt;= 1960" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Arnold institutioncode:NMMNH" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "family:vespertilionidae continent:North America institutioncode:NMMNH" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "preparations:Tissue hastissue:1 Procyon lotor" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New Mexico&#34; institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "genus:vulpes country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus institutioncode:NMMNH hastissue:1" ; Times: 2
+	Query: "hastissue:1 Taxidea taxus" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:dipodomys catalognumber:4713" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 1719 download events in this period)
+Total number of records downloaded: 1793
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 76
+	Country: Mexico ; Times: 51
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 8
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 9
+	Date: 2018-11-05 ; Times: 6
+	Date: 2018-11-03 ; Times: 3
+	Date: 2018-11-02 ; Times: 4
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 4
+	Date: 2018-11-26 ; Times: 12
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-29 ; Times: 14
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 9
+	Date: 2018-11-12 ; Times: 14
+	Date: 2018-11-13 ; Times: 4
+	Date: 2018-11-14 ; Times: 11
+	Date: 2018-11-15 ; Times: 21
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia locality:Isla San Jose country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Marmota hasmass:1" ; Times: 1
+	Query: "class:Mammalia locality:Isla San Marcos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:waterhousii genus:Macrotus" ; Times: 1
+	Query: "genus:marmota specificepithet:caligata" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 3
+	Query: "lontra canadensis" ; Times: 3
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Chaetodipus baileyi" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "genus:Macrotus waterhousii" ; Times: 1
+	Query: "vntype:specimen genus:Cryptotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Lasiurus blossevillii" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:NMMNH" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "Chaetodipus nelsoni" ; Times: 2
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "genus:Pecari tajacu" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "preparations:Tissue hastissue:1 Procyon lotor" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "choeronycteris" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "leptonycteris curasoae" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "specificepithet:caligata genus:Marmota basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "genus:vulpes country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+
+
+End of report.
