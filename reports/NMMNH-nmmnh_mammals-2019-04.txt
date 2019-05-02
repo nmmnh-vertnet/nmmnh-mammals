@@ -1,0 +1,124 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 506
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-02 ; Times: 8
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 13
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "specificepithet:nelsoni genus:Ammospermophilus hastissue:1" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:NMMNH hastissue:1" ; Times: 2
+	Query: "baja boylii" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:NMMNH" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 7
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:446 institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Mephitis institutioncode:NMMNH" ; Times: 1
+	Query: "institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:44 institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:merriami genus:perognathus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 3
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Spilogale institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:4546 institutioncode:NMMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1263 download events in this period)
+Total number of records downloaded: 1515
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-27 ; Times: 9
+	Date: 2019-04-02 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:artus genus:Chaetodipus" ; Times: 2
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus" ; Times: 3
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 2
+
+
+End of report.
