@@ -1,0 +1,185 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1129
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Thailand ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-22 ; Times: 6
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 45
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 17
+	Date: 2019-08-14 ; Times: 5
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-30 ; Times: 22
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:vivesi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Lasiurus xanthinus haslength:1" ; Times: 2
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "genus:geomys stateprovince:&#34;Nebraska&#34; hastissue:1" ; Times: 1
+	Query: "genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 2
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "Macrotus californicus haslength:1" ; Times: 2
+	Query: "genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Myotis auriculus haslength:1" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "order:Chiroptera county:&#34;Grand&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "Myotis vivesi haslength:1" ; Times: 2
+	Query: "county:&#34;Kane&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "order:Rodentia county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "order:cingulata preparations:skeleton" ; Times: 3
+	Query: "specificepithet:rudinoris genus:Chaetodipus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;nebraska&#34; hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "class:Mammalia institutioncode:NMMNH" ; Times: 1
+	Query: "Nyctinomops femorosaccus haslength:1" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "genus:perognathus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Euderma maculatum haslength:1" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus family:Heteromyidae order:Rodentia class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34; continent:America" ; Times: 8
+	Query: "institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "locality:Manuel Benavides stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "specificepithet:merriami genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "genus:onychomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 2
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 2
+	Query: "class:Mammalia locality:Manuel Benavides stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "Myotis yumanensis haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Leptonycteris curasoae haslength:1" ; Times: 2
+	Query: "genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 2
+	Query: "specificepithet:formosus genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 2
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Idionycteris phyllotis haslength:1" ; Times: 2
+	Query: "Macrotus waterhousii haslength:1" ; Times: 2
+	Query: "genus:spermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "genus:ammospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1034 download events in this period)
+Total number of records downloaded: 13503
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Brazil ; Times: 2
+	Country: China ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-19 ; Times: 9
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:vivesi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Lepus californicus" ; Times: 1
+	Query: "dipodomys nelsoni" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "class:Mammalia institutioncode:NMMNH" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "genus:Macrotus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "myotis californicus" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:nivalis genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "lasiurus xanthinus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "euderma maculatum" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
