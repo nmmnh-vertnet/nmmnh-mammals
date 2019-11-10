@@ -1,0 +1,159 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 993
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 204
+	Country: Thailand ; Times: 27
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-20 ; Times: 8
+	Date: 2019-09-23 ; Times: 24
+	Date: 2019-09-22 ; Times: 5
+	Date: 2019-09-25 ; Times: 25
+	Date: 2019-09-21 ; Times: 10
+	Date: 2019-09-12 ; Times: 6
+	Date: 2019-09-26 ; Times: 45
+	Date: 2019-09-19 ; Times: 9
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-27 ; Times: 23
+	Date: 2019-09-05 ; Times: 31
+	Date: 2019-09-24 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Idionycteris hastissue:1" ; Times: 6
+	Query: "Lasiurus xanthinus haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "specificepithet:tajacu genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1990 year &lt;= 1999 hassex:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "Myotis auriculus haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "Myotis vivesi haslength:1" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:NMMNH" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 12
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 116
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2004" ; Times: 1
+	Query: "Peromyscus maniculatus 2001" ; Times: 1
+	Query: "Peromyscus maniculatus 2000" ; Times: 2
+	Query: "specificepithet:irroratus genus:Liomys institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 2
+	Query: "Nyctinomops femorosaccus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 4
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Euderma maculatum haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 2
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1997" ; Times: 4
+	Query: "Peromyscus maniculatus 1995" ; Times: 2
+	Query: "Peromyscus maniculatus 1992" ; Times: 4
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 3
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 1
+	Query: "Microtus pennsylvanicus 2001" ; Times: 1
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 1
+	Query: "specificepithet:OBSCURUS genus:TAMIAS institutioncode:NMMNH" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "42180" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 2
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Leptonycteris curasoae haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 1
+	Query: "Microtus pennsylvanicus 1993" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Macrotus waterhousii haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 2
+	Query: "Idionycteris phyllotis haslength:1" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1073 download events in this period)
+Total number of records downloaded: 543
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 95
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 14
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 18
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-26 ; Times: 32
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-27 ; Times: 8
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 2
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 59
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 3
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
