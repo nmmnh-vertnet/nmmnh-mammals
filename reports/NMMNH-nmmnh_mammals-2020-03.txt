@@ -1,0 +1,90 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-20 ; Times: 7
+	Date: 2020-03-30 ; Times: 14
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "catalognumber:3937 institutioncode:NMMNH" ; Times: 2
+	Query: "catalognumber:3983 institutioncode:NMMNH" ; Times: 2
+	Query: "Lasiurus blossevillii nevada" ; Times: 1
+	Query: "specificepithet:mansuetus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "catalognumber:3980 institutioncode:NMMNH" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "catalognumber:3945 institutioncode:NMMNH" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:umbrinus family:Sciuridae county:&#34;Elko&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 2
+	Query: "catalognumber:4004 institutioncode:NMMNH" ; Times: 3
+	Query: "specificepithet:nelsoni genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "catalognumber:3982 institutioncode:NMMNH" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 853 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:flavescens genus:Perognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 1
+
+
+End of report.
