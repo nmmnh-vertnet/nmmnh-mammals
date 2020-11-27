@@ -1,0 +1,262 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 2249
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 219
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-05 ; Times: 68
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-04 ; Times: 93
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-22 ; Times: 7
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-29 ; Times: 6
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:deserti genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Microtus longicaudus 1985" ; Times: 1
+	Query: "Neotoma mexicana 1997" ; Times: 1
+	Query: "Dipodomys ordii 2015" ; Times: 4
+	Query: "Dipodomys ordii 1976" ; Times: 1
+	Query: "Onychomys leucogaster 1999" ; Times: 1
+	Query: "Onychomys leucogaster 1995" ; Times: 1
+	Query: "Onychomys leucogaster 1992" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 1
+	Query: "Dipodomys ordii 1985" ; Times: 1
+	Query: "genus:leptonycteris stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Dipodomys ordii 1987" ; Times: 1
+	Query: "Zapus princeps 1990" ; Times: 1
+	Query: "Microtus montanus 2001" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "Geomys bursarius 1993" ; Times: 1
+	Query: "Geomys bursarius 1994" ; Times: 1
+	Query: "Geomys bursarius 1995" ; Times: 1
+	Query: "Geomys bursarius 1985" ; Times: 1
+	Query: "institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 4
+	Query: "Microtus montanus 1999" ; Times: 1
+	Query: "Onychomys leucogaster 1983" ; Times: 1
+	Query: "specificepithet:devia genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Onychomys leucogaster 1985" ; Times: 1
+	Query: "Thomomys talpoides 2016" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:phenax genus:Neotoma hastissue:1" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Thomomys talpoides 2003" ; Times: 1
+	Query: "NMMNH 5056" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 6
+	Query: "Reithrodontomys megalotis 2000" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Reithrodontomys megalotis 2007" ; Times: 1
+	Query: "Reithrodontomys megalotis 2008" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thomomys talpoides 1999" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "Thomomys talpoides 1998" ; Times: 1
+	Query: "Dipodomys ordii 1995" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 5
+	Query: "Mus musculus 1985" ; Times: 4
+	Query: "genus:ammospermophilus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Onychomys leucogaster 1993" ; Times: 1
+	Query: "specificepithet:FRATERCULUS genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "Mus musculus 2005" ; Times: 2
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Mus musculus 2003" ; Times: 4
+	Query: "specificepithet:megacephalus genus:Microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Thomomys talpoides 1993" ; Times: 1
+	Query: "Thomomys talpoides 1991" ; Times: 1
+	Query: "Thomomys talpoides 1990" ; Times: 1
+	Query: "Microtus montanus 1986" ; Times: 1
+	Query: "Thomomys talpoides 1995" ; Times: 1
+	Query: "Mus musculus 1991" ; Times: 2
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "Mus musculus 1998" ; Times: 2
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "Onychomys leucogaster 2007" ; Times: 1
+	Query: "Microtus montanus 1988" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "specificepithet:microps genus:dipodomys county:&#34;lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "Reithrodontomys megalotis 1996" ; Times: 1
+	Query: "Reithrodontomys megalotis 1997" ; Times: 1
+	Query: "Reithrodontomys megalotis 1992" ; Times: 1
+	Query: "Reithrodontomys megalotis 1993" ; Times: 1
+	Query: "Geomys bursarius 2003" ; Times: 2
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Thomomys talpoides 2008" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 7
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "NMMNH 2693" ; Times: 1
+	Query: "Neotoma sp" ; Times: 1
+	Query: "genus:Tamiasciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Reithrodontomys megalotis 1985" ; Times: 1
+	Query: "Reithrodontomys megalotis 1986" ; Times: 1
+	Query: "Reithrodontomys megalotis 1980" ; Times: 1
+	Query: "Neotoma cinerea 1987" ; Times: 1
+	Query: "specificepithet:EVA genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Neotoma cinerea 1988" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 3
+	Query: "Dipodomys ordii 2016" ; Times: 3
+	Query: "Chaetodipus hispidus 2004" ; Times: 1
+	Query: "Chaetodipus hispidus 2007" ; Times: 1
+	Query: "Chaetodipus hispidus 2006" ; Times: 1
+	Query: "Dipodomys ordii 2002" ; Times: 1
+	Query: "Zapus princeps 2000" ; Times: 1
+	Query: "Zapus princeps 2001" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "Neotoma mexicana 2016" ; Times: 1
+	Query: "Microtus longicaudus 2001" ; Times: 1
+	Query: "Microtus longicaudus 2000" ; Times: 2
+	Query: "Potos flavus preparations:skeleton" ; Times: 1
+	Query: "Microtus longicaudus 1997" ; Times: 1
+	Query: "Onychomys leucogaster 2002" ; Times: 1
+	Query: "Onychomys leucogaster 2001" ; Times: 1
+	Query: "institutioncode:NMMNH" ; Times: 4
+	Query: "Onychomys leucogaster 2005" ; Times: 1
+	Query: "Onychomys leucogaster 2004" ; Times: 1
+	Query: "Neotoma cinerea 2001" ; Times: 1
+	Query: "Dipodomys ordii 1992" ; Times: 1
+	Query: "Dipodomys ordii 1999" ; Times: 1
+	Query: "Chaetodipus hispidus 2016" ; Times: 3
+	Query: "Chaetodipus hispidus 2015" ; Times: 3
+	Query: "Dipodomys ordii 2005" ; Times: 2
+	Query: "Dipodomys ordii 2004" ; Times: 1
+	Query: "Dipodomys ordii 2007" ; Times: 1
+	Query: "Dipodomys ordii 2006" ; Times: 1
+	Query: "Dipodomys ordii 1997" ; Times: 1
+	Query: "Dipodomys ordii 2003" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Baja California Sur&#34; hastissue:1" ; Times: 1
+	Query: "Neotoma mexicana 2001" ; Times: 1
+	Query: "class:Mammalia institutioncode:NMMNH" ; Times: 1
+	Query: "Zapus princeps 1994" ; Times: 1
+	Query: "Thomomys talpoides 2019" ; Times: 1
+	Query: "Thomomys talpoides 2018" ; Times: 1
+	Query: "Thomomys talpoides 2017" ; Times: 1
+	Query: "Microtus montanus 1997" ; Times: 1
+	Query: "Thomomys talpoides 2014" ; Times: 1
+	Query: "Thomomys talpoides 2013" ; Times: 1
+	Query: "Thomomys talpoides 2012" ; Times: 1
+	Query: "Thomomys talpoides 2011" ; Times: 1
+	Query: "Thomomys talpoides 2010" ; Times: 1
+	Query: "genus:Leptonycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 2
+	Query: "Neotoma cinerea 2010" ; Times: 1
+	Query: "Microtus montanus 1985" ; Times: 1
+	Query: "Thomomys talpoides 2005" ; Times: 1
+	Query: "Chaetodipus hispidus 1992" ; Times: 1
+	Query: "Chaetodipus hispidus 1997" ; Times: 1
+	Query: "Thomomys talpoides 2007" ; Times: 1
+	Query: "genus:Procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "Thomomys talpoides 2009" ; Times: 1
+	Query: "Thomomys talpoides 2004" ; Times: 1
+	Query: "Onychomys leucogaster 1987" ; Times: 1
+	Query: "Thomomys talpoides 2006" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis hastissue:1" ; Times: 1
+	Query: "Thomomys talpoides 2000" ; Times: 1
+	Query: "Thomomys talpoides 2001" ; Times: 1
+	Query: "Thomomys talpoides 2002" ; Times: 1
+	Query: "Microtus longicaudus 1986" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1308 download events in this period)
+Total number of records downloaded: 946
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptonycteris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 3
+	Query: "genus:ochotona year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Neotoma family:Cricetidae order:Rodentia (Zacatecas)" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "family:Vespertilionidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Potos flavus preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+
+
+End of report.
