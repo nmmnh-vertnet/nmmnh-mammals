@@ -1,0 +1,81 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 259
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-08 ; Times: 12
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:phenax genus:Neotoma hastissue:1" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:NMMNH" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "&#34;ochotona princeps&#34; vntype:specimen stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:NMMNH" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "Onychomys arenicola arenicola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:3945 institutioncode:NMMNH" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1106 download events in this period)
+Total number of records downloaded: 1747
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
