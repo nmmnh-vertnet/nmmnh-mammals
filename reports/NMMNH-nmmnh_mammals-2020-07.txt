@@ -1,0 +1,86 @@
+Report for Institution Code NMMNH, Resource nmmnh_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 654
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 8
+	Date: 2020-07-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys arenarius stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "Geomys knoxjonesi county:&#34;winkler&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus continent:North America institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;United States&#34; institutioncode:NMMNH hastissue:1" ; Times: 3
+	Query: "Lasiurus blossevillii Mexico" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus institutioncode:NMMNH hastissue:1" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "Geomys knoxjonesi stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;united states&#34; institutioncode:NMMNH hastissue:1" ; Times: 1
+	Query: "Geomys arenarius county:&#34;el paso&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Geomys knoxjonesi county:&#34;andrews&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 4208
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:ochotona" ; Times: 2
+	Query: "cetacea" ; Times: 1
+	Query: "Geomys arenarius county:&#34;el paso&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+
+
+End of report.
